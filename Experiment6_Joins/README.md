@@ -274,3 +274,4 @@ INNER JOIN
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
+
