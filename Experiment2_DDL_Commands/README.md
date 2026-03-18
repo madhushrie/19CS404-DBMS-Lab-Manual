@@ -273,3 +273,4 @@ ALTER TABLE Student_details ADD COLUMN MARKS INT DEFAULT 0;
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
+
